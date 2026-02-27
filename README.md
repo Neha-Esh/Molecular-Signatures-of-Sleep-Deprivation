@@ -19,10 +19,13 @@ All analyses are implemented in Python using Jupyter Notebooks.
 ---
 
 ##  Repository Structure
-``
+<pre>
+```text
+.
 ├── Final_project.ipynb
 ├── Advanced_Integrated_Analysis_v2.ipynb
 ├── Enrichment analysis.ipynb
 ├── Untitled.ipynb
 └── README.md
-``
+```
+</pre>
