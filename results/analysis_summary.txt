@@ -1,0 +1,27 @@
+
+DATASET: GSE98566
+Sleep Deprivation vs Control Blood Transcriptome
+
+SAMPLES:
+  Total: 163
+  Sleep Deprived: 92
+  Control: 71
+
+GENES ANALYZED: 8,506
+
+DIFFERENTIAL EXPRESSION (padj<0.05, |log2FC|>0.5):
+  Total DEGs: 60
+  Upregulated: 46
+  Downregulated: 14
+
+RESULTS SAVED:
+  results/dge_results.csv - All genes with statistics
+  results/degs_all.csv - All DEGs
+  results/degs_upregulated.csv - Upregulated genes
+  results/degs_downregulated.csv - Downregulated genes
+  results/sample_metadata.csv - Sample information
+
+FIGURES SAVED:
+  figures/volcano_plot.png - Volcano plot
+  figures/heatmap_top_degs.png - Heatmap of top DEGs
+  figures/ma_plot.png - MA plot

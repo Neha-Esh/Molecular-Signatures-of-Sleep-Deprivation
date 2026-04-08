@@ -1,0 +1,87 @@
+probe_id,symbol,entrezgene,name,taxid
+7961102,CLEC1B,51266,C-type lectin domain family 1 member B,9606.0
+8151592,CA1,759,carbonic anhydrase 1,9606.0
+8095694,PF4V1,5197,platelet factor 4 variant 1,9606.0
+8156706,TMOD1,7111,tropomodulin 1,9606.0
+8063478,MIMS2,116151,mitochondrial inner membrane scaffold 2,9606.0
+8131067,GPR146,115330,G protein-coupled receptor 146,9606.0
+8092552,IGF2BP2,10644,insulin like growth factor 2 mRNA binding protein 2,9606.0
+8173135,ALAS2,212,5'-aminolevulinate synthase 2,9606.0
+8038877,SIGLEC5,8778,sialic acid binding Ig like lectin 5,9606.0
+8062312,MYL9,10398,myosin light chain 9,9606.0
+7953901,CLEC12A,160364,C-type lectin domain family 12 member A,9606.0
+8161373,LINC00268,441426,long intergenic non-protein coding RNA 268,9606.0
+8161554,LINC00268,441426,long intergenic non-protein coding RNA 268,9606.0
+8021081,SLC14A1,6563,solute carrier family 14 member 1 (Kidd blood group),9606.0
+8071044,MAFIP,727764,MAFF interacting protein,9606.0
+8071044,TEKT4P2,100132288,tektin 4 pseudogene 2,9606.0
+8071044,LOC100233156,100233156,tektin 4 pseudogene,9606.0
+8071051,MAFIP,727764,MAFF interacting protein,9606.0
+8071051,TEKT4P2,100132288,tektin 4 pseudogene 2,9606.0
+8071051,LOC100233156,100233156,tektin 4 pseudogene,9606.0
+8007921,MYL4,4635,myosin light chain 4,9606.0
+8162719,HEMGN,55363,hemogen,9606.0
+8169709,GLRX5,51218,glutaredoxin 5,9606.0
+8126269,TREML1,340205,triggering receptor expressed on myeloid cells like 1,9606.0
+8135378,PRKAR2B,5577,protein kinase cAMP-dependent type II regulatory subunit beta,9606.0
+8154363,LOC100996747,100996747,40S ribosomal protein S26,9606.0
+8154363,RPS26,6231,ribosomal protein S26,9606.0
+8154363,RPS26P11,441502,ribosomal protein S26 pseudogene 11,9606.0
+8013272,LOC101929141,101929141,coiled-coil domain-containing protein 144A-like,9606.0
+8013272,CCDC144A,9720,coiled-coil domain containing 144A,9606.0
+8013272,CCDC144NL,339184,CCDC144A N-terminal like (pseudogene),9606.0
+8013272,CCDC144CP,348254,"coiled-coil domain containing 144C, pseudogene",9606.0
+8013272,CCDC144BP,284047,"coiled-coil domain containing 144B, pseudogene",9606.0
+8149137,DEFA3,1668,defensin alpha 3,9606.0
+8149137,DEFA1,1667,defensin alpha 1,9606.0
+8149137,DEFA1B,728358,defensin alpha 1B,9606.0
+8149126,DEFA3,1668,defensin alpha 3,9606.0
+8149126,DEFA1,1667,defensin alpha 1,9606.0
+8149126,DEFA1B,728358,defensin alpha 1B,9606.0
+8149116,DEFA3,1668,defensin alpha 3,9606.0
+8149116,DEFA1B,728358,defensin alpha 1B,9606.0
+8149116,DEFA1,1667,defensin alpha 1,9606.0
+8005225,USP32P1,162632,ubiquitin specific peptidase 32 pseudogene 1,9606.0
+8005225,CCDC144BP,284047,"coiled-coil domain containing 144B, pseudogene",9606.0
+8100971,PPBP,5473,pro-platelet basic protein,9606.0
+7898998,RHD,6007,Rh blood group D antigen,9606.0
+8125436,HLA-DRB5,3127,"major histocompatibility complex, class II, DR beta 5",9606.0
+8036755,CLC,1178,Charcot-Leyden crystal galectin,9606.0
+8112376,CENPK,64105,centromere protein K,9606.0
+8134257,GNG11,2791,G protein subunit gamma 11,9606.0
+7972577,LOC100996747,100996747,40S ribosomal protein S26,9606.0
+7972577,PDPK1,5170,3-phosphoinositide dependent protein kinase 1,9606.0
+7972577,RPS26,6231,ribosomal protein S26,9606.0
+7972577,RPS26P11,441502,ribosomal protein S26 pseudogene 11,9606.0
+8043436,IGKC,3514,immunoglobulin kappa constant,9606.0
+8007797,LOC100996747,100996747,40S ribosomal protein S26,9606.0
+8007797,RPS26,6231,ribosomal protein S26,9606.0
+8007797,RPS26P11,441502,ribosomal protein S26 pseudogene 11,9606.0
+8102410,LOC100996747,100996747,40S ribosomal protein S26,9606.0
+8102410,RPS26,6231,ribosomal protein S26,9606.0
+8102410,PDPK1,5170,3-phosphoinositide dependent protein kinase 1,9606.0
+8102410,RPS26P11,441502,ribosomal protein S26 pseudogene 11,9606.0
+7956114,LOC100996747,100996747,40S ribosomal protein S26,9606.0
+7956114,RPS26,6231,ribosomal protein S26,9606.0
+7956114,PDPK1,5170,3-phosphoinositide dependent protein kinase 1,9606.0
+7956114,RPS26P11,441502,ribosomal protein S26 pseudogene 11,9606.0
+8168357,LOC100996747,100996747,40S ribosomal protein S26,9606.0
+8168357,RPS26,6231,ribosomal protein S26,9606.0
+8168357,PDPK1,5170,3-phosphoinositide dependent protein kinase 1,9606.0
+8168357,RPS26P11,441502,ribosomal protein S26 pseudogene 11,9606.0
+8117034,GMPR,2766,guanosine monophosphate reductase,9606.0
+7911229,OR2W3,343171,olfactory receptor family 2 subfamily W member 3,9606.0
+7911229,TRIM58,25893,tripartite motif containing 58,9606.0
+7911231,OR2W3,343171,olfactory receptor family 2 subfamily W member 3,9606.0
+7911231,TRIM58,25893,tripartite motif containing 58,9606.0
+7995237,AHSP,51327,alpha hemoglobin stabilizing protein,9606.0
+8125447,HLA-DQB1,3119,"major histocompatibility complex, class II, DQ beta 1",9606.0
+8125447,HLA-DRB1,3123,"major histocompatibility complex, class II, DR beta 1",9606.0
+8149109,DEFA4,1669,defensin alpha 4,9606.0
+8093950,S100P,6286,S100 calcium binding protein P,9606.0
+7991758,HBM,3042,hemoglobin subunit mu,9606.0
+8102998,GYPA,2993,glycophorin A (MNS blood group),9606.0
+8137464,PSPH,5723,phosphoserine phosphatase,9606.0
+7976443,IFI27,3429,interferon alpha inducible protein 27,9606.0
+7991754,HBZ,3050,hemoglobin subunit zeta,9606.0
+8081298,ADGRG7,84873,adhesion G protein-coupled receptor G7,9606.0
