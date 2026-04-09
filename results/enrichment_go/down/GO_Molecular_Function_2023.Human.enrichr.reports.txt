@@ -1,0 +1,6 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2023	Protein Homodimerization Activity (GO:0042803)	2/662	3.374889e-02	1.684365e-01	0	0	8.368398e+00	2.835889e+01	DEFA4;S100P
+GO_Molecular_Function_2023	Magnesium Ion Binding (GO:0000287)	1/155	6.763924e-02	1.684365e-01	0	0	1.610146e+01	4.337036e+01	S100P
+GO_Molecular_Function_2023	G Protein-Coupled Receptor Activity (GO:0004930)	1/250	1.070560e-01	1.684365e-01	0	0	9.910643e+00	2.214437e+01	ADGRG7
+GO_Molecular_Function_2023	Cadherin Binding (GO:0045296)	1/319	1.347492e-01	1.684365e-01	0	0	7.733097e+00	1.549976e+01	S100P
+GO_Molecular_Function_2023	Metal Ion Binding (GO:0046872)	1/521	2.114862e-01	2.114862e-01	0	0	4.680529e+00	7.271648e+00	S100P

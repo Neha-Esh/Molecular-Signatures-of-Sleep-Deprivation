@@ -1,0 +1,21 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2023	Secretory Granule Lumen (GO:0034774)	3/316	3.058126e-04	6.116252e-03	0	0	3.143450e+01	2.543849e+02	DEFA4;S100P;DEFA1
+GO_Cellular_Component_2023	Golgi Lumen (GO:0005796)	2/100	8.708672e-04	8.708672e-03	0	0	5.799708e+01	4.086487e+02	DEFA4;DEFA1
+GO_Cellular_Component_2023	Azurophil Granule (GO:0042582)	2/155	2.072961e-03	1.381974e-02	0	0	3.704575e+01	2.288974e+02	DEFA4;DEFA1
+GO_Cellular_Component_2023	Primary Lysosome (GO:0005766)	1/10	4.491844e-03	2.245922e-02	0	0	2.775278e+02	1.500174e+03	DEFA4
+GO_Cellular_Component_2023	Ficolin-1-Rich Granule Membrane (GO:0101003)	1/60	2.668335e-02	9.040888e-02	0	0	4.222881e+01	1.530252e+02	SIGLEC5
+GO_Cellular_Component_2023	Specific Granule Lumen (GO:0035580)	1/61	2.712266e-02	9.040888e-02	0	0	4.152292e+01	1.497892e+02	DEFA4
+GO_Cellular_Component_2023	Tertiary Granule Membrane (GO:0070821)	1/72	3.194344e-02	9.126698e-02	0	0	3.507042e+01	1.207751e+02	SIGLEC5
+GO_Cellular_Component_2023	Azurophil Granule Lumen (GO:0035578)	1/89	3.935198e-02	9.837995e-02	0	0	2.827131e+01	9.146358e+01	DEFA1
+GO_Cellular_Component_2023	Cytoplasmic Vesicle Lumen (GO:0060205)	1/115	5.058523e-02	1.078711e-01	0	0	2.179496e+01	6.503823e+01	S100P
+GO_Cellular_Component_2023	Intracellular Organelle Lumen (GO:0070013)	2/856	5.393554e-02	1.078711e-01	0	0	6.402476e+00	1.869501e+01	DEFA4;DEFA1
+GO_Cellular_Component_2023	Specific Granule (GO:0042581)	1/159	6.932957e-02	1.086085e-01	0	0	1.569066e+01	4.187656e+01	DEFA4
+GO_Cellular_Component_2023	Vacuolar Lumen (GO:0005775)	1/161	7.017372e-02	1.086085e-01	0	0	1.549297e+01	4.116143e+01	DEFA1
+GO_Cellular_Component_2023	Tertiary Granule (GO:0070820)	1/162	7.059553e-02	1.086085e-01	0	0	1.539596e+01	4.081144e+01	SIGLEC5
+GO_Cellular_Component_2023	Ficolin-1-Rich Granule (GO:0101002)	1/184	7.983257e-02	1.140465e-01	0	0	1.353005e+01	3.420159e+01	SIGLEC5
+GO_Cellular_Component_2023	Secretory Granule Membrane (GO:0030667)	1/279	1.187897e-01	1.583863e-01	0	0	8.863759e+00	1.888335e+01	SIGLEC5
+GO_Cellular_Component_2023	Collagen-Containing Extracellular Matrix (GO:0062023)	1/373	1.558868e-01	1.906600e-01	0	0	6.592406e+00	1.225281e+01	DEFA1
+GO_Cellular_Component_2023	Cytoplasmic Vesicle Membrane (GO:0030659)	1/389	1.620610e-01	1.906600e-01	0	0	6.315399e+00	1.149265e+01	SIGLEC5
+GO_Cellular_Component_2023	Bounding Membrane Of Organelle (GO:0098588)	1/819	3.136618e-01	3.485131e-01	0	0	2.929859e+00	3.396996e+00	SIGLEC5
+GO_Cellular_Component_2023	Nucleus (GO:0005634)	1/4487	8.984287e-01	9.324823e-01	0	0	4.320386e-01	4.627475e-02	S100P
+GO_Cellular_Component_2023	Intracellular Membrane-Bounded Organelle (GO:0043231)	1/5175	9.324823e-01	9.324823e-01	0	0	3.579677e-01	2.502377e-02	S100P

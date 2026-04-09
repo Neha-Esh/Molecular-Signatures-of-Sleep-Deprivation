@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Staphylococcus aureus infection	3/95	8.541968e-06	2.562590e-05	0	0	1.081467e+02	1.262129e+03	DEFA4;DEFA1B;DEFA1
+KEGG_2021_Human	NOD-like receptor signaling pathway	3/181	5.883043e-05	7.011432e-05	0	0	5.565449e+01	5.421222e+02	DEFA4;DEFA1B;DEFA1
+KEGG_2021_Human	Transcriptional misregulation in cancer	3/192	7.011432e-05	7.011432e-05	0	0	5.238624e+01	5.010945e+02	DEFA4;DEFA1B;DEFA1

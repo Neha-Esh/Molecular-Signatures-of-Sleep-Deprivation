@@ -1,0 +1,26 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2023	Innate Immune Response In Mucosa (GO:0002227)	2/21	3.763275e-05	8.453592e-04	0	0	3.003308e+02	3.059661e+03	DEFA4;DEFA1
+GO_Biological_Process_2023	Mucosal Immune Response (GO:0002385)	2/28	6.762873e-05	8.453592e-04	0	0	2.193956e+02	2.106522e+03	DEFA4;DEFA1
+GO_Biological_Process_2023	Antibacterial Humoral Response (GO:0019731)	2/49	2.093736e-04	1.744780e-03	0	0	1.212401e+02	1.027072e+03	DEFA4;DEFA1
+GO_Biological_Process_2023	Antimicrobial Humoral Immune Response Mediated By Antimicrobial Peptide (GO:0061844)	2/65	3.689413e-04	2.305883e-03	0	0	9.037642e+01	7.144141e+02	DEFA4;DEFA1
+GO_Biological_Process_2023	Defense Response To Gram-negative Bacterium (GO:0050829)	2/75	4.910703e-04	2.455352e-03	0	0	7.795695e+01	5.939480e+02	DEFA4;DEFA1
+GO_Biological_Process_2023	Defense Response To Gram-positive Bacterium (GO:0050830)	2/85	6.302828e-04	2.626178e-03	0	0	6.853012e+01	5.050219e+02	DEFA4;DEFA1
+GO_Biological_Process_2023	Antimicrobial Humoral Response (GO:0019730)	2/100	8.708672e-04	3.110240e-03	0	0	5.799708e+01	4.086487e+02	DEFA4;DEFA1
+GO_Biological_Process_2023	Cellular Response To Molecule Of Bacterial Origin (GO:0071219)	2/117	1.189151e-03	3.706018e-03	0	0	4.938137e+01	3.325596e+02	DEFA4;DEFA1
+GO_Biological_Process_2023	Cellular Response To Lipopolysaccharide (GO:0071222)	2/124	1.334166e-03	3.706018e-03	0	0	4.653162e+01	3.080136e+02	DEFA4;DEFA1
+GO_Biological_Process_2023	Response To Lipopolysaccharide (GO:0032496)	2/159	2.179652e-03	5.449130e-03	0	0	3.609463e+01	2.212092e+02	DEFA4;DEFA1
+GO_Biological_Process_2023	Defense Response To Bacterium (GO:0042742)	2/204	3.555435e-03	8.080533e-03	0	0	2.799010e+01	1.578439e+02	DEFA4;DEFA1
+GO_Biological_Process_2023	Cellular Response To Lipid (GO:0071396)	2/228	4.418664e-03	8.638162e-03	0	0	2.498736e+01	1.354794e+02	DEFA4;DEFA1
+GO_Biological_Process_2023	T Cell Chemotaxis (GO:0010818)	1/10	4.491844e-03	8.638162e-03	0	0	2.775278e+02	1.500174e+03	DEFA1
+GO_Biological_Process_2023	Killing By Host Of Symbiont Cells (GO:0051873)	1/13	5.835903e-03	1.042126e-02	0	0	2.081146e+02	1.070484e+03	DEFA1
+GO_Biological_Process_2023	Defense Response To Protozoan (GO:0042832)	1/15	6.731046e-03	1.121393e-02	0	0	1.783661e+02	8.920131e+02	DEFA1
+GO_Biological_Process_2023	Intracellular Estrogen Receptor Signaling Pathway (GO:0030520)	1/17	7.625474e-03	1.121393e-02	0	0	1.560547e+02	7.609634e+02	DEFA1
+GO_Biological_Process_2023	T Cell Migration (GO:0072678)	1/17	7.625474e-03	1.121393e-02	0	0	1.560547e+02	7.609634e+02	DEFA1
+GO_Biological_Process_2023	Defense Response To Fungus (GO:0050832)	1/29	1.297703e-02	1.771799e-02	0	0	8.912054e+01	3.871908e+02	DEFA4
+GO_Biological_Process_2023	Cellular Response To Oxygen-Containing Compound (GO:1901701)	2/406	1.346567e-02	1.771799e-02	0	0	1.385219e+01	5.966987e+01	DEFA4;DEFA1
+GO_Biological_Process_2023	Endothelial Cell Migration (GO:0043542)	1/40	1.786007e-02	2.229836e-02	0	0	6.394872e+01	2.574056e+02	S100P
+GO_Biological_Process_2023	Intracellular Steroid Hormone Receptor Signaling Pathway (GO:0030518)	1/43	1.918808e-02	2.229836e-02	0	0	5.937202e+01	2.347253e+02	DEFA1
+GO_Biological_Process_2023	Lymphocyte Chemotaxis (GO:0048247)	1/44	1.963039e-02	2.229836e-02	0	0	5.798837e+01	2.279335e+02	DEFA1
+GO_Biological_Process_2023	Epithelial Cell Migration (GO:0010631)	1/46	2.051449e-02	2.229836e-02	0	0	5.540556e+01	2.153406e+02	S100P
+GO_Biological_Process_2023	Adenylate Cyclase-Activating G Protein-Coupled Receptor Signaling Pathway (GO:0007189)	1/110	4.843410e-02	5.045219e-02	0	0	2.280046e+01	6.902955e+01	ADGRG7
+GO_Biological_Process_2023	Adenylate Cyclase-Modulating G Protein-Coupled Receptor Signaling Pathway (GO:0007188)	1/163	7.101718e-02	7.101718e-02	0	0	1.530015e+01	4.046636e+01	ADGRG7
