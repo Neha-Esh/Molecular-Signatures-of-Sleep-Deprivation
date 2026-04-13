@@ -62,13 +62,20 @@ All analyses are implemented in Python using Jupyter Notebooks.
 │   ├── protein_interaction_network_hubs.csv
 │   └── (other intermediate outputs)
 ├── figures/
-│   ├── volcano_plot.png
+│  ├── volcano_plot.png
 │   ├── ma_plot.png
 │   ├── heatmap_top_degs.png
 │   ├── top_degs_expression.png
 │   ├── feature_importance_rf.png
 │   ├── cm_leakfree_top50_logreg.png
-│   └── expected_pathways.png
+│   ├── expected_pathways.png
+│   ├── gene_trends1.png
+│   ├── gene_trends2.png
+│   ├── enrichment_plot.png
+│   ├── model_performance_vs_number_of_genes.png
+│   ├── auc_vs_features.png
+│   ├── top_predictive_genes_scatter.png
+│   └── consistent_gene_expression_heatmap.png
 └── README.md
 ```
 
